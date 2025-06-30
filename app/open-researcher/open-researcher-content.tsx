@@ -107,7 +107,7 @@ export default function OpenResearcherContent() {
               asChild
             >
               <Link
-                href="https://github.com/mendableai/firecrawl"
+                href="https://github.com/mendableai/open-researcher"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
