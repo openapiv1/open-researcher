@@ -25,13 +25,13 @@ A powerful AI-powered research tool that combines Firecrawl's web scraping capab
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd open-research
+   git clone https://github.com/mendableai/open-researcher
+   cd open-researcher
    ```
 
 2. **Install dependencies**
    ```bash
-   npm install --legacy-peer-deps
+   npm install
    ```
 
 3. **Set up environment variables**
