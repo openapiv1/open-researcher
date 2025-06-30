@@ -1,5 +1,7 @@
 # Open Researcher
 
+![Open Researcher Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJncnpmamlzc3RnMzNpeXNwcGk1Z3kwemd6c2w1ZDdxcGZwdWJwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hhNLykzY76wu7oGFU0/giphy.gif)
+
 A powerful AI-powered research tool that combines Firecrawl's web scraping capabilities with advanced AI reasoning to help you search, analyze, and understand web content.
 
 ## Features
@@ -55,9 +57,6 @@ A powerful AI-powered research tool that combines Firecrawl's web scraping capab
 |----------|----------|-------------|
 | `ANTHROPIC_API_KEY` | Yes | Claude API key for AI functionality |
 | `FIRECRAWL_API_KEY` | No* | Firecrawl API key for web scraping |
-| `OPENAI_API_KEY` | No | OpenAI API key (optional) |
-| `UPSTASH_REDIS_REST_URL` | No | Redis URL for rate limiting |
-| `UPSTASH_REDIS_REST_TOKEN` | No | Redis token for rate limiting |
 
 *Can be provided through the UI if not set in environment variables
 
